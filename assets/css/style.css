@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+
+/* Changed the divs to navs */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -101,6 +103,7 @@ p {
     color: #ffffff;
 }
 
+/* Changed the heading hierarchy for .benefit-lead so it's an h2 rather than h3 */
 .benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
@@ -195,6 +198,6 @@ p {
     text-align: center;
 }
 
-.footer h3 {
+.footer h2 {
     font-size: 20px;
 }

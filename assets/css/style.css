@@ -88,50 +88,51 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Change classes to ids */
+#benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+#benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
+#benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Changed the heading hierarchy for .benefit-lead so it's an h2 rather than h3 */
-.benefit-lead h2 {
+#benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h2 {
+#benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h2 {
+#benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+#benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+#benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+#benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

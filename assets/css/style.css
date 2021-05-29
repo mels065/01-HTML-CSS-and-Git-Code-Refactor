@@ -106,7 +106,7 @@ p {
     max-width: 150px;
 }
 
-/* Change classes to IDs (for linking from nav bar) */
+/* Remove redundancy from CSS; create new content-section class */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
